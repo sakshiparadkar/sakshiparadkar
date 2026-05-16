@@ -1,21 +1,35 @@
 # Hi there, I'm Sakshi Paradkar! 👋
 
-### 📊 Data Analyst & Business Analyst · Mumbai, India 🇮🇳
+### 📊 Data Analytics & Business Analytics · Mumbai, India 🇮🇳
 *Final year student | Turning raw data into real decisions | Always curious, always learning!*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshiparadkar/)
-![Open to Internships](https://img.shields.io/badge/🔍%20Open%20to-DA%20%7C%20BA%20Internships-2ea44f?style=for-the-badge)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sakshi+Paradkar+👋;Data+Analyst+%7C+Business+Analyst;Turning+data+into+decisions+📊;Open+to+DA+%7C+BA+Internships+🔍" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshiparadkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
 -🎓 Pursuing Master's in Computer Science at Ramnarain Ruia College, Mumbai
+
 -📊 I work with data to uncover business insights that help teams make smarter, faster decisions
+
 -🤖 Experienced in ML models, BI dashboards & market research — turning numbers into strategy
+
 -🎤 Dale Carnegie certified in Public Speaking — because good analysis means nothing if you can't present it well
+
 -🏆 4th rank in Bachelor's | Actively participated in tech events & competitions
+
 -💬 Open to discussing data strategy, business analytics, Power BI, SQL, or Python
+
 - 📫 Let's connect on **[LinkedIn](https://www.linkedin.com/in/sakshiparadkar/)**
 
 ---
@@ -62,13 +76,6 @@
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-**Collaboration & Project Management**
-
-![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
 **AI Tools**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -80,37 +87,45 @@
 
 ## 📜 Certifications
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) **Generative AI Fundamentals**
-> Foundations of GenAI, prompt engineering & AI-powered workflows on Google Cloud
+-🏅 Google Cloud — Generative AI Fundamentals
 
-![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white) **AI Foundations**
-> Core concepts of Artificial Intelligence, machine learning & real-world AI applications
+Explored GenAI concepts, prompt engineering & AI-powered workflows
 
-![HP](https://img.shields.io/badge/HP-0096D6?style=for-the-badge&logo=hp&logoColor=white) **Data Science & Analytics**
-> End-to-end data science pipeline — from data wrangling to insight generation
+-🏅 IBM — AI Foundations
 
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) **Excel — Data Analysis**
-> Advanced Excel for business reporting, pivot tables, dashboards & data modelling
+Built understanding of AI, ML fundamentals & real-world applications
 
-![Deloitte](https://img.shields.io/badge/Deloitte%20Forage-86BC25?style=for-the-badge&logo=deloitte&logoColor=white) **Data Analytics Virtual Experience**
-> Simulated real-world data analytics tasks in a consulting environment
+-🏅 HP — Data Science & Analytics
 
-![Dale Carnegie](https://img.shields.io/badge/Dale%20Carnegie-C8102E?style=for-the-badge&logoColor=white) **Public Speaking & Communication Mastery**
-> Leadership communication, persuasive storytelling & professional presence
+Covered end-to-end data science pipeline from wrangling to insights
+
+-🏅 Microsoft — Excel Data Analysis
+
+Advanced Excel for business reporting, pivot tables & dashboards
+
+-🏅 Deloitte Forage — Data Analytics Virtual Experience
+
+Simulated real-world analytics tasks in a consulting environment
+
+-🎤 Dale Carnegie — Public Speaking & Communication Mastery
+
+Developed leadership communication, storytelling & professional presence
+
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshiparadkar&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshiparadkar&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiparadkar&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiparadkar&layout=compact&theme=dark&hide_border=true" height="160"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshiparadkar&theme=default&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshiparadkar&theme=dark&hide_border=true"/>
 </p>
+
 
 ---
 
