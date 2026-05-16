@@ -1,16 +1,15 @@
-# Hi there, I'm Sakshi Paradkar! 👋
-
-### 📊 Data Analytics & Business Analytics · Mumbai, India 🇮🇳
-*Final year student | Turning raw data into real decisions | Always curious, always learning!*
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sakshi+Paradkar+👋;Data+Analyst+%7C+Business+Analyst;Turning+data+into+decisions+📊;Open+to+DA+%7C+BA+Internships+🔍" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshiparadkar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sakshiparadkar73@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -18,18 +17,12 @@
 
 ## 👩‍💻 About Me
 
--🎓 Pursuing Master's in Computer Science at Ramnarain Ruia College, Mumbai
-
--📊 I work with data to uncover business insights that help teams make smarter, faster decisions
-
--🤖 Experienced in ML models, BI dashboards & market research — turning numbers into strategy
-
--🎤 Dale Carnegie certified in Public Speaking — because good analysis means nothing if you can't present it well
-
--🏆 4th rank in Bachelor's | Actively participated in tech events & competitions
-
--💬 Open to discussing data strategy, business analytics, Power BI, SQL, or Python
-
+- 🎓 Pursuing **Master's in Computer Science** at **Ramnarain Ruia College, Mumbai**
+- 📊 I work with data to uncover **business insights** that help teams make smarter, faster decisions
+- 🤖 Experienced in **ML models, BI dashboards & market research** — turning numbers into strategy
+- 🎤 **Dale Carnegie certified** in Public Speaking — because good analysis means nothing if you can't present it well
+- 🏆 **4th rank in Bachelor's** | Actively participated in tech events & competitions
+- 💬 Ask me about **Python, SQL, Power BI, Tableau or business analytics**
 - 📫 Let's connect on **[LinkedIn](https://www.linkedin.com/in/sakshiparadkar/)**
 
 ---
@@ -76,6 +69,13 @@
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
+**Collaboration & Project Management**
+
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 **AI Tools**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -87,30 +87,12 @@
 
 ## 📜 Certifications
 
--🏅 Google Cloud — Generative AI Fundamentals
-
-Explored GenAI concepts, prompt engineering & AI-powered workflows
-
--🏅 IBM — AI Foundations
-
-Built understanding of AI, ML fundamentals & real-world applications
-
--🏅 HP — Data Science & Analytics
-
-Covered end-to-end data science pipeline from wrangling to insights
-
--🏅 Microsoft — Excel Data Analysis
-
-Advanced Excel for business reporting, pivot tables & dashboards
-
--🏅 Deloitte Forage — Data Analytics Virtual Experience
-
-Simulated real-world analytics tasks in a consulting environment
-
--🎤 Dale Carnegie — Public Speaking & Communication Mastery
-
-Developed leadership communication, storytelling & professional presence
-
+- 🏅 **Google Cloud** — Generative AI Fundamentals
+- 🏅 **IBM** — AI Foundations
+- 🏅 **HP** — Data Science & Analytics
+- 🏅 **Microsoft** — Excel Data Analysis
+- 🏅 **Deloitte Forage** — Data Analytics Virtual Experience
+- 🎤 **Dale Carnegie** — Public Speaking & Communication Mastery
 
 ---
 
@@ -126,7 +108,19 @@ Developed leadership communication, storytelling & professional presence
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshiparadkar&theme=dark&hide_border=true"/>
 </p>
 
-
 ---
 
-*⭐ If you find my work interesting, feel free to star a repo or connect on LinkedIn — I'd love to chat data, dashboards, or just about the next big thing in analytics!*
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshiparadkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sakshiparadkar73@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshiparadkar&style=flat-square&color=0A66C2" alt="Profile Views"/>
+</p>
