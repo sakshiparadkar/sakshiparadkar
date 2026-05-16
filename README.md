@@ -1,15 +1,18 @@
+<h1 align="center">Hi there, I'm Sakshi Paradkar 👋</h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sakshi+Paradkar+👋;Data+Analyst+%7C+Business+Analyst;Turning+data+into+decisions+📊;Open+to+DA+%7C+BA+Internships+🔍" alt="Typing SVG" />
-  </a>
+  <em>MSc Computer Science Student &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; Business Analyst &nbsp;|&nbsp; Turning data into decisions 📊</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sakshiparadkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sakshiparadkar73@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sakshiparadkar">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
