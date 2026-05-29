@@ -4,6 +4,10 @@
   <em>MSc Computer Science Student &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; Business Analyst &nbsp;|&nbsp; Turning data into decisions 📊</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshiparadkar&style=flat-square&color=0A66C2" alt="Profile Views"/>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
@@ -99,7 +103,3 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshiparadkar&style=flat-square&color=0A66C2" alt="Profile Views"/>
-</p>
