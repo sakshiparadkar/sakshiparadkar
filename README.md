@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sakshi Paradkar 👋</h1>
 
 <p align="center">
-  <em>MSc Computer Science Student &nbsp;|&nbsp; Data Analyst &nbsp;|&nbsp; Business Analyst &nbsp;|&nbsp; Turning data into decisions 📊</em>
+  <em>MSc Computer Science Student &nbsp;|&nbsp; Data Analytics &nbsp;|&nbsp; Business Analytics &nbsp;|&nbsp; Turning data into decisions 📊</em>
 </p>
 
 <p align="center">
